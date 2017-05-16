@@ -1,0 +1,6 @@
+framework module LHStaticLibrary {
+  umbrella header "LHStaticLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

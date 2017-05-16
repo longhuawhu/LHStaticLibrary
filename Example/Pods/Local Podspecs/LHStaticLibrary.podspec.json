@@ -1,0 +1,23 @@
+{
+  "name": "LHStaticLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of LHStaticLibrary.",
+  "description": "这是我的一个测试工程，用来演示怎样创建一个源码公开的静态库",
+  "homepage": "https://github.com/longhuawhu/LHStaticLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "longhuawhu": "longhua1949hm@163.com"
+  },
+  "source": {
+    "git": "https://github.com/longhuawhu/LHStaticLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LHStaticLibrary/Classes/**/*",
+  "public_header_files": "LHStaticLibrary/Classes/**/*.h"
+}

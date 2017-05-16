@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LHStaticLibrary_Example' do
+  pod 'LHStaticLibrary', :path => '../'
+
+  target 'LHStaticLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

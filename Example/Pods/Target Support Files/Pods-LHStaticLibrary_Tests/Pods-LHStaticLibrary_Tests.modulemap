@@ -1,0 +1,6 @@
+framework module Pods_LHStaticLibrary_Tests {
+  umbrella header "Pods-LHStaticLibrary_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

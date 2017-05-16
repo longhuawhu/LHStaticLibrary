@@ -1,0 +1,16 @@
+PODS:
+  - LHStaticLibrary (0.1.0)
+
+DEPENDENCIES:
+  - LHStaticLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  LHStaticLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LHStaticLibrary: d8104619de069a3d56aa59c098734e733bfdf346
+
+PODFILE CHECKSUM: fb909d155a9b4f410cb31c3612563392e17400fc
+
+COCOAPODS: 1.0.1
